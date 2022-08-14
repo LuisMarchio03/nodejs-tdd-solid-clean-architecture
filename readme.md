@@ -12,7 +12,7 @@
 
 ## [**Link para o curso completo**](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
 
-Essa API faz parte do treinamento do professor [**Rodrigo Manguinho (Mango)**](https://github.com/rmanguinho/clean-ts-api) na Udemy.
+Essa API faz parte do treinamento do professor [**Rodrigo Manguinho (Mango)**](https://github.com/rmanguinho/clean-ts-api) na [**Udemy**](https://www.udemy.com/course/tdd-com-mango/#instructor-1).
 
 
 
